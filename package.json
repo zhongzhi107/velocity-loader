@@ -1,0 +1,30 @@
+{
+  "name": "velocity-loader",
+  "version": "1.0.0",
+  "description": "Loads velocity template and returns generated HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhongzhi107/velocity-loader.git"
+  },
+  "keywords": [
+    "velocity",
+    "loader",
+    "webpack",
+    "java",
+    "template"
+  ],
+  "author": "zhongzhi <zhong.zhi@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhongzhi107/velocity-loader/issues"
+  },
+  "homepage": "https://github.com/zhongzhi107/velocity-loader#readme",
+  "dependencies": {
+    "loader-utils": "^0.2.16",
+    "velocity": "^0.7.2"
+  }
+}
